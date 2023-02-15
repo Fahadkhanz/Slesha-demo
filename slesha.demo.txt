@@ -1,0 +1,15 @@
+
+
+
+First Name:FAHAD		
+Last Name:KHAN
+Phone:346-800-7206
+Email:fahadkhan81211@gmail.com
+LinkedIn URL:https://www.linkedin.com/in/fahad-khan81211
+Worker Status:OPT EAD
+Work Authorization Expiry Date:01/29/4
+Current Location City:Atlanta
+Current Location State:Georgia
+Summary of Relevant Skills:
+I have around 8 years of experience as a Full Stack Java Developer. I have worked in the Banking, Telecommunication, financial sectors. I have expertise handling front-End technologies like HTML, CSS, XML along with the JAVASCRIPT FRAMEWORKS like NODE.JS, TYPESCRIPT, AngularJS, ReactJS. And, I have experience in Back-End Technologies like JAVA 8, SPRING BOOT, AND MICROSERVICES. I have Working Knowledge in cloud technologies like AWS and its services like EC2, S3 Buckets, and RDS, AZURE,GCP. Also I have good experience in CI/CD pipelines. I have worked with tools like Docker, Kubernetes. I have expertise in working with SQL, NoSQL databases. I have performed testing using JUnit.
+Availability to start - Date:Immediately
